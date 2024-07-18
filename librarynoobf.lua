@@ -29,7 +29,7 @@ local player = game:GetService('Players').LocalPlayer
 local mouse = player:GetMouse()
 -- Library variables
 local library = {
-	Name = 'Zekrom Hub X',
+	Name = 'Khanhdz',
 	Version = 'V. 2.0.0',
 	Icon = 'rbxassetid://15608032460',
 	Parent = game.CoreGui or player.PlayerGui or player:WaitForChild("PlayerGui", 5),
